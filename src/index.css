@@ -191,7 +191,7 @@ img {
 }
 
 .cart__select {
-    max-height: 48px;
+    height: 48px;
     display: flex;
     justify-content: center;
     align-items: center;
